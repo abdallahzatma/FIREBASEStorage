@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730538098477",
+    "project_id": "cloudstorge-52d86",
+    "storage_bucket": "cloudstorge-52d86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730538098477:android:a92f6f1139033d8d0bdda4",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730538098477-hfg8e5r9a36pravrpq1q9r7aqi23lodl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofQrpHWEB9vVrc_PBnIU90MnR37XeQQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730538098477-hfg8e5r9a36pravrpq1q9r7aqi23lodl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
