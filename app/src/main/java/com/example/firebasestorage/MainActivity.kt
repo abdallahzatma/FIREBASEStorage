@@ -42,7 +42,7 @@ download_bt.setOnClickListener {
 
     private fun selectFile() {
         val intent = Intent(Intent.ACTION_GET_CONTENT)
-        intent.type = "*/*"
+        intent.type = "*/pdf"
         startActivityForResult(intent, REQUEST_CODE)
     }
 
